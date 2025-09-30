@@ -23,35 +23,27 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: The Hong Kong Polytechnic University
+    url: https://www.polyu.edu.hk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=KxdyUQQAAAAJ&hl=zh-CN&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-2750-9993
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Transportation Infrastructure
+  - Smart Sensing
+  - Environmental Impact analysis
+  - AI Epowered Condition Assessment
 
 education:
   - area: PhD Computer Science (AI Focus)
