@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Zihang Weng
+title: Zihang Weng
 
 # Name pronunciation (optional)
 name_pronunciation: ''
