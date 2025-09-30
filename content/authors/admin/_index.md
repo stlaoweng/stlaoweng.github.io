@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Dr. Zihang Weng
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Zihang
+last_name: Weng
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns:
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
