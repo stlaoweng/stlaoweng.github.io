@@ -85,27 +85,14 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+  - title: First Prize of the China Communications and Transportation Association Science and Technology Award
+    date: '2023'
+    awarder: the China Communications and Transportation Association Science and Technology
+
+
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Dr. Zihang Weng is a Postdoctoral Fellow at The Hong Kong Polytechnic University. He has dedicated his research to pavement performance, evaluation, and surface interaction since 2018. Dr. Weng earned his PhD from Tongji University in 2024. His research interests lie in: (1) Computer-aided pavement condition assessment using emerging sensing technologies. (2) Analysis of the environmental and energy impacts of transportation infrastructure performance. (3) Safety and operational management of transportation infrastructure under vehicle-infrastructure interaction.
+Dr. Weng has authored a total of 30 journal articles including Autom. Constr. (4 papers), Comput. Aided Civ. Infrastruct. Eng. (2 papers), Friction (2 papers), IEEE Trans. Intell. Transp. Syst., Transp. Res. Part D: Transp. Environ., Measurement, Constr. Build. Mater., Case Stud. Constr. Mater. (2 papers).
+His intellectual property portfolio includes 2 international PCT patents, 5 authorized Chinese invention patents, 1 utility model patent, and 1 software copyright. He has also contributed to 1 regional standard and 1 academic monograph. He recieved the First Prize of the China Communications and Transportation Association Science and Technology Award, the Outstanding Doctoral Dissertation at the 13th TRF Transportation Research Forum, the Tongji University Outstanding Doctoral Thesis Award, and selection into the Chinese Ministry of Transport’s Major Scientific and Technological Innovation Achievements.
+
